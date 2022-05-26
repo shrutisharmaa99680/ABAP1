@@ -6,3 +6,4 @@
 REPORT ZS09_TEST.
 write: / 'abap git is fun'.
 write: / 'abap git is fun'.
+write: / 'abap git is fun'.
